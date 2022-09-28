@@ -17,7 +17,7 @@ public class Tutorial extends Application  {
 
         Button button1 = new Button("Button1");
         Button button2 = new Button("Button2");
-        Button button3 = new Button("Button3a");
+        Button button3 = new Button("Button3");
         Button button4 = new Button("Button4");
 
         TilePane layout = new TilePane(button1, button2, button3, button4);
